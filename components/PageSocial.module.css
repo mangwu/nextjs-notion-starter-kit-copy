@@ -101,10 +101,24 @@
 }
 
 .youtube .actionBgPane {
-  background: #FF0000;
+  background: #ff0000;
 }
 .youtube:hover {
-  border-color: #FF0000;
+  border-color: #ff0000;
+}
+
+.zhihu .actionBgPane {
+  background: #2b32f8;
+}
+.zhihu:hover {
+  border-color: #012bff;
+}
+
+.bilibili .actionBgPane {
+  background: #f47794;
+}
+.bilibili:hover {
+  border-color: #f47794;
 }
 
 .medium .actionBgPane {

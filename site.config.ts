@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '4910d907c9a54b0887e4493647b522da',
+  rootNotionPageId: 'Mang-Wu-Blog-4910d907c9a54b0887e4493647b522da',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,16 +10,18 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mangwu Blogs',
-  domain: 'https://www.notion.so/mangwu/Mang-Wu-Blog-4910d907c9a54b0887e4493647b522da',
+  domain:
+    'https://www.notion.so/mangwu/Mang-Wu-Blog-4910d907c9a54b0887e4493647b522da',
   author: 'mangwu',
-
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site', 
+  description: `mangwu's blogs`,
 
   // social usernames (optional)
-  twitter: '',
+  // twitter: '',
   github: 'mangwu',
-  linkedin: '',
+  zhihu: 'mang-wu-57-61',
+  bilibili: '140111670',
+  // linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
