@@ -58,11 +58,13 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'JavaScript',
-      pageId: 'JavaScript-2cd5015d1fd14e10a78aedbc74e60ac7'
+      pageId: 'JavaScript-2cd5015d1fd14e10a78aedbc74e60ac7',
+      url: 'JavaScript-2cd5015d1fd14e10a78aedbc74e60ac7'
     },
     {
       title: 'React',
-      pageId: 'React-04d002640476440791cefb93895f6dad'
+      pageId: 'React-04d002640476440791cefb93895f6dad',
+      url: 'React-04d002640476440791cefb93895f6dad'
     }
   ]
 })
