@@ -108,10 +108,10 @@
 }
 
 .zhihu .actionBgPane {
-  background: #2b32f8;
+  background: #2549fc;
 }
 .zhihu:hover {
-  border-color: #012bff;
+  border-color: #2549fc;
 }
 
 .bilibili .actionBgPane {
